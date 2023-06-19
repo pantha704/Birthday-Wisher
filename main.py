@@ -10,7 +10,7 @@
 
 import random, smtplib, pandas as pd, datetime as dt
 
-MY_EMAIL = "prathamjaiswal204@gmail.com"
+MY_EMAIL = "test@gmail.com"
 PASSWORD = "rhhxzirrnqoisxbi"
 
 birthday_list = pd.read_csv("./birthdays.csv")
